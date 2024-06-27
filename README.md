@@ -1,15 +1,33 @@
-# Hello, I am Anant Sharma [👋]
+# 👋 Hi, I'm Anant!
 
-I am a student and I am interested in AI and ML. 
-I love to [🔥] create datasets and [📦] devlop python packages.
+I'm a passionate coder with a keen interest in Artificial Intelligence. I'm currently working on creating my own package. I love exploring new technologies and applying them to solve real-world problems.
 
-- 👋 Hi, I’m @E5Anant 
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Datascience
-- 📫 How to reach me - contact email - e5anant2011@gmail.com
-- 😄 Pronouns: he/him/his
+## 💼 Professional Skills
 
-<!---
-E5Anant/E5Anant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Languages:**
+-  ![Python](https://img.icons8.com/color/48/000000/python.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+
+- **Tools & Frameworks:**
+  - ![Arduino](https://img.icons8.com/color/48/000000/arduino.png) Arduino
+  - ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png) OpenCV
+
+- **Other Skills:**
+  - ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) Photoshop
+  - ![Video Editing](https://img.icons8.com/color/48/000000/video-editing.png) Video Editing
+
+## 🚀 Currently Working On
+
+- Developing my own AI package
+- Exploring advanced machine learning techniques
+- Building interactive web applications
+
+## 🌟 Interests
+
+- **AI & Machine Learning:** Constantly learning and applying AI to solve problems.
+- **Open Source:** Contributing to open-source projects and collaborating with the community.
+- **Electronics & IoT:** Experimenting with Arduino and other hardware to create innovative solutions.
+- **Creative Media:** Passionate about Photoshop and video editing to bring ideas to life visually.
+
+## 📫 Contact Me
+
+Feel free to reach out via email: [e5anant2011@gmail.com](mailto:e5anant2011@gmail.com)
