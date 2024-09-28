@@ -2,7 +2,7 @@
 
 I'm a passionate coder with a keen interest in Artificial Intelligence. I'm currently working on creating my own package. I love exploring new technologies and applying them to solve real-world problems.
 
-<p align="left"><img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<p align="center"><img align="center" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 ## 💼 Professional Skills
 
