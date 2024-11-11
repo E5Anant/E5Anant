@@ -1,35 +1,49 @@
-# 👋 Hi, I'm Anant!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=E5Anant.E5Anant" />
 
-I'm a passionate coder with a keen interest in Artificial Intelligence. I'm currently working on creating my own package. I love exploring new technologies and applying them to solve real-world problems.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anant+Sharma!;" />
+</h1>
 
-<p align="center"><img align="center" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<h3 align="center">A passionate coder from Kolkata, India with a keen interest in Artificial Intelligence.</h3>
 
-## 💼 Professional Skills
+<br/>
 
-- **Languages:**
--  ![Python](https://img.icons8.com/color/48/000000/python.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+<div align="center">
+ 
+ 🔭 I’m currently working on **[archeai](github.com/E5Anant/archeAI)**
+ 
+ 🌱 I’m currently learning **Machine Learning, Agents...**
 
-- **Tools & Frameworks:**
-  - ![Arduino](https://img.icons8.com/color/48/000000/arduino.png) Arduino
-  - ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png) OpenCV
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-- **Other Skills:**
-  - ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) Photoshop
-  - ![Video Editing](https://img.icons8.com/color/48/000000/video-editing.png) Video Editing
+ </div>
 
-## 🚀 Currently Working On
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:e5anant2011@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
 
-- Developing my own AI package
-- Exploring advanced machine learning techniques
-- Building interactive web applications
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql" /><br>
+</div>
 
-## 🌟 Interests
+<br/>
+<hr/>
 
-- **AI & Machine Learning:** Constantly learning and applying AI to solve problems.
-- **Open Source:** Contributing to open-source projects and collaborating with the community.
-- **Electronics & IoT:** Experimenting with Arduino and other hardware to create innovative solutions.
-- **Creative Media:** Passionate about Photoshop and video editing to bring ideas to life visually.
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/E5Anant/E5Anant/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-## 📫 Contact Me
-
-Feel free to reach out via email: [e5anant2011@gmail.com](mailto:e5anant2011@gmail.com)
+<hr/>
