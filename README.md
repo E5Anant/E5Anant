@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[archeai](github.com/E5Anant/archeAI)**
+ 🔭 I’m currently working on **[archeai](github.com/E5Anant/archeai)**
  
  🌱 I’m currently learning **Machine Learning, Agents...**
 
