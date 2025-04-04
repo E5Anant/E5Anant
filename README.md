@@ -10,7 +10,7 @@
 
 <div align="center">
 
- AI Engineer | Graphic Designer | Computer Vision
+ AI Engineer | Graphic Designer | Computer Vision |
  AI Agents | UnisonAI
  
  🔭 I’m currently working on **[UnisonAI](github.com/UnisonAI)**
