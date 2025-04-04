@@ -13,7 +13,7 @@
  **AI Engineer | Graphic Designer | Computer Vision |
  AI Agents | UnisonAI**
  
- 🔭 I’m currently working on **[UnisonAI](github.com/UnisonAI)**
+ 🔭 I’m currently working on **[UnisonAI]([https://github.com/UnisonAI])**
  
  🌱 I’m currently learning **Machine Learning, Agents...**
 
