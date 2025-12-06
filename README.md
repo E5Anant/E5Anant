@@ -7,8 +7,10 @@
 
 <div align=center>
     
- **AI Engineer | Graphic Designer | Computer Vision |
- AI Agents | UnisonAI**
+ **AI Engineer | Developer | Computer Vision |
+ AI Agents | Researcher**
+
+ <h4>A IDIOT WITH CURIOSITY!</h4>
     
  </div>
 
