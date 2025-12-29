@@ -10,7 +10,7 @@
  **AI Engineer | Developer | IDIOT |
  AI Agents | Researcher**
 
- <h4>A IDIOT WITH CURIOSITY!</h4>
+ <h4>AN IDIOT WITH CURIOSITY!</h4>
     
  </div>
 
