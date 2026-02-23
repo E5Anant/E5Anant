@@ -16,4 +16,19 @@
 
 </div>
 
+<div align="center">
+
+  <img src="assets/banner1.jpeg" width="40%"/>
+  <img src="assets/banner7.jpeg" width="40%"/>
+
+  <img src="assets/banner3.jpeg" width="40%"/>
+  <img src="assets/banner4.jpeg" width="40%"/>
+
+  <img src="assets/banner5.jpeg" width="40%"/>
+  <img src="assets/banner6.jpeg" width="40%"/>
+
+  <img src="assets/banner2.jpeg" width="40%"/>
+  <img src="assets/banner8.jpeg" width="40%"/>
+
+</div>
 
